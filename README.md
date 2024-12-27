@@ -1,2 +1,2 @@
 # CS351-AI-Project-Image-Stegnography
-This project implements an advanced image steganography system using genetic algorithms to optimize the embedding process. 
+This project implements an advanced image steganography system using genetic algorithms to optimize the embedding process. The system employs various scanning patterns and bit-plane manipulation techniques to hide secret messages within host images while maintaining image quality. The genetic algorithm approach helps find optimal embedding parameters that maximize steganographic capacity while minimizing visual distortion. The implementation demonstrates how evolutionary computation can be applied to solve complex optimization problems in information hiding.
